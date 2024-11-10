@@ -45,7 +45,7 @@ while (true)
             Console.WriteLine("Unentschieden");
             break;
         case 1:
-            Console.WriteLine("Du hast gewonnen");
+            Console.WriteLine("Ich hab gewonnen");
             break;
         case 2:
             Console.WriteLine("Computer hat gewonnen");
@@ -54,7 +54,7 @@ while (true)
             Console.WriteLine("Computer hat gewonnen");
             break;
         case -2:
-            Console.WriteLine("Du hast gewonnen");
+            Console.WriteLine("Ich hab gewonnen");
             break;
     }
 
