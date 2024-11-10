@@ -1,0 +1,17 @@
+C:\Users\franz\source\repos\Projekt Taschenrechner\Projekt Taschenrechner\bin\Debug\net8.0-windows\Projekt Taschenrechner.exe
+C:\Users\franz\source\repos\Projekt Taschenrechner\Projekt Taschenrechner\bin\Debug\net8.0-windows\Projekt Taschenrechner.deps.json
+C:\Users\franz\source\repos\Projekt Taschenrechner\Projekt Taschenrechner\bin\Debug\net8.0-windows\Projekt Taschenrechner.runtimeconfig.json
+C:\Users\franz\source\repos\Projekt Taschenrechner\Projekt Taschenrechner\bin\Debug\net8.0-windows\Projekt Taschenrechner.dll
+C:\Users\franz\source\repos\Projekt Taschenrechner\Projekt Taschenrechner\bin\Debug\net8.0-windows\Projekt Taschenrechner.pdb
+C:\Users\franz\source\repos\Projekt Taschenrechner\Projekt Taschenrechner\obj\Debug\net8.0-windows\Projekt_Taschenrechner.Form1.resources
+C:\Users\franz\source\repos\Projekt Taschenrechner\Projekt Taschenrechner\obj\Debug\net8.0-windows\Projekt Taschenrechner.csproj.GenerateResource.cache
+C:\Users\franz\source\repos\Projekt Taschenrechner\Projekt Taschenrechner\obj\Debug\net8.0-windows\Projekt Taschenrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franz\source\repos\Projekt Taschenrechner\Projekt Taschenrechner\obj\Debug\net8.0-windows\Projekt Taschenrechner.AssemblyInfoInputs.cache
+C:\Users\franz\source\repos\Projekt Taschenrechner\Projekt Taschenrechner\obj\Debug\net8.0-windows\Projekt Taschenrechner.AssemblyInfo.cs
+C:\Users\franz\source\repos\Projekt Taschenrechner\Projekt Taschenrechner\obj\Debug\net8.0-windows\Projekt Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\franz\source\repos\Projekt Taschenrechner\Projekt Taschenrechner\obj\Debug\net8.0-windows\Projekt Taschenrechner.dll
+C:\Users\franz\source\repos\Projekt Taschenrechner\Projekt Taschenrechner\obj\Debug\net8.0-windows\refint\Projekt Taschenrechner.dll
+C:\Users\franz\source\repos\Projekt Taschenrechner\Projekt Taschenrechner\obj\Debug\net8.0-windows\Projekt Taschenrechner.pdb
+C:\Users\franz\source\repos\Projekt Taschenrechner\Projekt Taschenrechner\obj\Debug\net8.0-windows\Projekt Taschenrechner.genruntimeconfig.cache
+C:\Users\franz\source\repos\Projekt Taschenrechner\Projekt Taschenrechner\obj\Debug\net8.0-windows\ref\Projekt Taschenrechner.dll
+C:\Users\franz\source\repos\Projekt Taschenrechner\Projekt Taschenrechner\obj\Debug\net8.0-windows\Projekt_Taschenrechner.Properties.Resources.resources
