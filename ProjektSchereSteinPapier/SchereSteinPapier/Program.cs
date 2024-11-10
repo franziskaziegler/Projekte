@@ -1,8 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-while (true)
+﻿while (true)
 {
-
     Console.WriteLine("Wähle Schere, Stein oder Papier");
 
     // Schere = 1
